@@ -1,0 +1,26 @@
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\bin\Debug\net6.0\appsettings.json
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\bin\Debug\net6.0\Platzi Web.staticwebassets.runtime.json
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\bin\Debug\net6.0\Platzi Web.exe
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\bin\Debug\net6.0\Platzi Web.deps.json
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\bin\Debug\net6.0\Platzi Web.runtimeconfig.json
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\bin\Debug\net6.0\Platzi Web.dll
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\bin\Debug\net6.0\Platzi Web.pdb
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\Platzi Web.csproj.AssemblyReference.cache
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\Platzi Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\Platzi Web.AssemblyInfoInputs.cache
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\Platzi Web.AssemblyInfo.cs
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\Platzi Web.csproj.CoreCompileInputs.cache
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\Platzi Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\Platzi Web.RazorAssemblyInfo.cache
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\Platzi Web.RazorAssemblyInfo.cs
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\scopedcss\bundle\Platzi Web.styles.css
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\scopedcss\projectbundle\Platzi Web.bundle.scp.css
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\Platzi Web.dll
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\refint\Platzi Web.dll
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\Platzi Web.pdb
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\Platzi Web.genruntimeconfig.cache
+C:\Users\brayanruiz\OneDrive - SETI S.A.S\Documentos\Leo\Azure - Platzi\AppService_Azure_Platzi\Platzi Web\obj\Debug\net6.0\ref\Platzi Web.dll
